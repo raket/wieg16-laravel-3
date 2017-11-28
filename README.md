@@ -1,4 +1,4 @@
-# Övningar för Lektion 7: Laravel Controllers
+# Övningar för Lektion 6: Laravel Controllers
 Nu när ni importerat en massa data från olika endpoints så skulle man kunna tro att det var slut men det är det inte.
 Det finns en sista datakälla kvar.
 ## Övning 1
